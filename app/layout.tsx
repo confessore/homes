@@ -11,9 +11,9 @@ const akshar = Akshar({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title:
-    "Balanced Solutions Software - Seamless Development and Hosting Solutions for Web, Mobile, and Desktop Applications",
+    "Homes by Balanced Solutions",
   description:
-    "We shall handle the nerd stuff. Elevate your digital presence with our expert development and hosting services. From web to mobile to desktop, we deliver tailored solutions for optimal performance.",
+    "Homes by Balanced Solutions - For Sale by Owner",
 };
 
 export default function RootLayout({
