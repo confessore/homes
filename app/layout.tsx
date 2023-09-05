@@ -28,7 +28,6 @@ export default function RootLayout({
           <Overlay />
           <Backdrop>
             {children}
-            <FlexColumn></FlexColumn>
           </Backdrop>
         </MainWrapper>
       </body>
